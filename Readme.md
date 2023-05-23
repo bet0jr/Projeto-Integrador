@@ -1,1 +1,1 @@
-
+Esse sistema faz parte de um processo maior, ele tem como objetivo fazer o download das notas fiscais filtradas por competência.
