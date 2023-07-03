@@ -1,1 +1,1 @@
-Esse sistema faz parte de um processo maior, ele tem como objetivo fazer o download das notas fiscais filtradas por competência no site https://nfse-ararangua.atende.net/, junto da linguagem Python ele usa a API Playwright para a automatização da árean WEB.
+Esse sistema faz parte de um processo maior, ele tem como objetivo fazer o download das notas fiscais filtradas por competência no site https://nfse-ararangua.atende.net/, junto da linguagem Python ele usa a API Playwright para a automatização da área WEB.
